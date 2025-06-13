@@ -7,11 +7,10 @@ This project investigates whether insurance policies are appropriately priced us
 ## Project Structure
 
 - `Report.ipynb` – Complete analysis in an executable Jupyter notebook.
-- `Report.pdf` – Static LaTeX version of the notebook, ready for presentation.
-- `Summary_Paper.pdf` – Academic-style overview of methods, models, and findings.
+- `Report.pdf` – Static PDF version of the notebook
+- `Summary_Paper.pdf` – Overview of methods, models, and findings.
 - `figures/` – Contains all visualizations used in the reports.
-- `data/` – Contains cleaned input datasets (or links to Kaggle).
-- `requirements.txt` – (Optional) Library versions for reproducibility.
+- `data/` – Contains oringinal input datasets from Kaggle.
 
 ---
 
