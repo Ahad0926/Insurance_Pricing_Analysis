@@ -6,9 +6,9 @@ This project investigates whether insurance policies are appropriately priced us
 
 ## Project Structure
 
-- `Report.ipynb` – Complete analysis in an executable Jupyter notebook.
-- `Report.pdf` – Static PDF version of the notebook
-- `Summary_Paper.pdf` – Overview of methods, models, and findings.
+- `Insurance Pricing Analysis.ipynb` – Complete analysis in an executable Jupyter notebook.
+- `Insurance Pricing Analysis.pdf` – Static PDF version of the notebook
+- `Summary Paper.pdf` – Overview of methods, models, and findings.
 - `figures/` – Contains all visualizations used in the reports.
 - `data/` – Contains oringinal input datasets from Kaggle.
 
